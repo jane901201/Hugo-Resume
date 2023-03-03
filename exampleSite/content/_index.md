@@ -19,11 +19,11 @@ description: "This is a demo of the Lynx theme for Hugo."
 [Steam](https://store.steampowered.com/app/2143620/_/), 
 [iThome](https://ithelp.ithome.com.tw/users/20151894/ironman/5750)
 
-### Guild_AfterReal
-[Itch.io](https://lulubearstudio.itch.io/guild-after-real), [medium](https://medium.com/%40LinXuan70245/guild-afterreal%25E7%25A8%258B%25E5%25BC%258F%25E6%25AA%25A2%25E8%25A8%258E-948067f6eb13)
-
 ### VR遊戲應用於自閉症兒童
 [PPT](https://drive.google.com/file/d/1OK256iVtxHyRt2UZZ7OYECIJLQWiAQCe/view?usp=sharing) ,[Youtube](https://youtu.be/3mTxD3kLuDw) ,[Hackmd](https://hackmd.io/@vrforautism)
+
+### Guild_AfterReal
+[Itch.io](https://lulubearstudio.itch.io/guild-after-real), [medium](https://medium.com/%40LinXuan70245/guild-afterreal%25E7%25A8%258B%25E5%25BC%258F%25E6%25AA%25A2%25E8%25A8%258E-948067f6eb13)
 
 ### FGJ2021 即使是克蘇魯也想談戀愛
 [Github](https://github.com/rabbit99/FGJ2021), [Itch.io](https://itch.io/jam/faust-game-jam-2021/rate/1177642)
