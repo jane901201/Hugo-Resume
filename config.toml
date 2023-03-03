@@ -2,20 +2,24 @@
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "Profile"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  name = "何茹瑄"
+  headline = "高中時用Unity簡單做過飛機射擊遊戲，現在大學正在研究設計模式、重構、依賴注入、開源程式碼諸如此類的書籍和網路資料，之前有跟校外的朋友做類戰棋的遊戲，而學校專題則是有利用VR技術製作幫助自閉症兒童辨識情景的遊戲，希望未來能參與出更大類型的製作"
+  image = "img/author.JPG"  # path relative to static directory
+  email = "jane36742715@gmail.com"
+  education = "輔仁大學醫學資訊與創新應用學士學位學程"
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+    # { email = "mailto:jane36742715@gmail.com" },
+    { link = "https://ithelp.ithome.com.tw/users/20151894" },
+    { link = { href = "https://hackmd.io/@CtSze-t7T1GVANgIYXx2og", text = "Hackmd" } },
+    # { ithome = "https://ithelp.ithome.com.tw/users/20151894"},
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -25,7 +29,7 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
+    { github = "https://github.com/jane901201" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
     # { instagram = "https://instagram.com/username" },
@@ -34,7 +38,7 @@ disableKinds = ["taxonomy", "term"]
     # { lastfm = "https://lastfm.com/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
     # { mastodon = "https://mastodon.instance/@username" },
-    # { medium = "https://medium.com/username" },
+    { medium = "https://medium.com/" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },

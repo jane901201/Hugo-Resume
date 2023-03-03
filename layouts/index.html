@@ -28,6 +28,22 @@
           {{ . | markdownify | emojify }}
         </h2>
       {{ end }}
+      <!-- <h1 class="text-4xl font-extrabold dark:text-white">
+        Education
+      </h1>
+      {{ with .Site.Author.education }}
+      <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
+        {{ . | markdownify | emojify }}
+      </h2>
+      {{ end }}  
+      <h1 class="text-4xl font-extrabold dark:text-white">
+        Project
+      </h1>
+      {{ with .Site.Author.education }}
+      <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
+        {{ . | markdownify | emojify }}
+      </h2>
+      {{ end }}   -->
       {{ with .Content }}
         <section class="pt-5 prose dark:prose-invert">{{ . | emojify }}</section>
       {{ end }}
