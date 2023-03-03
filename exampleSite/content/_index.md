@@ -2,4 +2,4 @@
 description: "This is a demo of the Lynx theme for Hugo."
 ---
 
-View the readme or check out all the link styles available using the links below.
+Eduation: 輔仁大學醫學資訊與創新應用學士學位學程
