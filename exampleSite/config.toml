@@ -1,19 +1,21 @@
 theme = "lynx"
-title = "Lynx"
+title = "Profile"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Lynx"
-  headline = "A simple links theme for Hugo built with Tailwind CSS"
-  image = "author.jpg"
+  name = "何茹瑄"
+  headline = "高中時用Unity簡單做過飛機射擊遊戲，現在大學正在研究設計模式、重構、依賴注入、開源程式碼諸如此類的書籍和網路資料，之前有跟校外的朋友做類戰棋的遊戲，而學校專題則是有利用VR技術製作幫助自閉症兒童辨識情景的遊戲，希望未來能參與出更大類型的製作"
+  image = "img/author.JPG"  # path relative to static directory
+  email = "jane36742715@gmail.com"
+  education = "輔仁大學醫學資訊與創新應用學士學位學程"
+
   links = [
-    { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
-    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
-    { github = "https://github.com/jpanther/lynx" },
-    { twitter = "https://twitter.com/jpanther" },
-    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+    { link = "https://ithelp.ithome.com.tw/users/20151894" },
+    { link = { href = "https://hackmd.io/@CtSze-t7T1GVANgIYXx2og", text = "Hackmd" } },
+    { github = "https://github.com/jane901201" },
+    { medium = "https://medium.com/" },
   ]
 
 [markup.highlight]
