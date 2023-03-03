@@ -9,10 +9,10 @@ description: "This is a demo of the Lynx theme for Hugo."
 程式語言: C#, Java, Pyhton, Javascript , Kotlin
 
 
-IDE: Unity, Intellij IDEA
+開發環境: Unity, Intellij IDEA, Hugo
 
 
-正在學習: Hugo, 網頁前端
+正在學習: 深度學習
 
 ## 專案
 ### 流離之歌
