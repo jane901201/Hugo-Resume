@@ -38,7 +38,7 @@ description: "This is a demo of the Lynx theme for Hugo."
 [Github](https://github.com/rabbit99/FGJ2021), [Itch.io](https://itch.io/jam/faust-game-jam-2021/rate/1177642)
 
 ### GGJ2022 Block and white
-[GlobalGameJam.org](https://globalgamejam.org/2022/games/blackandwhite-4), [Github](https://github.com/GooKu/GGJ2022_E)
+[Github](https://github.com/GooKu/GGJ2022_E), [GlobalGameJam.org](https://globalgamejam.org/2022/games/blackandwhite-4)
 
 ### GGJ2023 Roots.io
 [Github](https://github.com/jane901201/GGJ2023TeamB), [GlobalGameJam.org](https://globalgamejam.org/2023/games/rootsio-1)
