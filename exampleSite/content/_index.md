@@ -23,20 +23,20 @@ description: "This is a demo of the Lynx theme for Hugo."
 
 ## 專案
 ### 流離之歌
-與校外朋友製作的最新遊戲，雖然棋類遊戲看似比動作類型遊戲簡單，但其實對於流程的安排、還有操作的控制邏輯更加嚴格，在這次製作中理解到更多程式架構的切割與改善，也因此參加鐵人30去描述我所想像的架構
+與校外朋友製作的最新遊戲，雖然棋類遊戲看似比動作類型遊戲簡單，但其實對於流程的安排、還有操作的控制邏輯更加嚴格，在這次製作中理解到更多程式架構的切割與改善，也因此參加鐵人30去描述我所想像的架構。
 
 
 [Steam](https://store.steampowered.com/app/2143620/_/), 
 [iThome](https://ithelp.ithome.com.tw/users/20151894/ironman/5750)
 
 ### VR遊戲應用於自閉症兒童
-校內老師指定專題時所參與的製作，為了製作 VR 支援與 Google cloud 平台語音辨識功能的連接方式而學會了連接第三方平台的處理內容
+校內老師指定專題時所參與的製作，為了製作 VR 支援與 Google cloud 平台語音辨識功能的連接方式而學會了連接第三方平台的處理內容。
 
 
 [PPT](https://drive.google.com/file/d/1OK256iVtxHyRt2UZZ7OYECIJLQWiAQCe/view?usp=sharing) ,[Youtube](https://youtu.be/3mTxD3kLuDw) ,[Hackmd](https://hackmd.io/@vrforautism)
 
 ### Guild_AfterReal
-第一次與校外朋友合作製作的遊戲， 雖然最後因為經驗不夠的原因所以將製作規模縮了不少， 不過這次合作起來的感覺非常好。即使這次製作出來的作品不是很完美， 但也更理解其中團隊合作的眉角
+第一次與校外朋友合作製作的遊戲， 雖然最後因為經驗不夠的原因所以將製作規模縮了不少， 不過這次合作起來的感覺非常好。即使這次製作出來的作品不是很完美， 但也更理解其中團隊合作的眉角。
 
 
 [Itch.io](https://lulubearstudio.itch.io/guild-after-real), [medium](https://medium.com/%40LinXuan70245/guild-afterreal%25E7%25A8%258B%25E5%25BC%258F%25E6%25AA%25A2%25E8%25A8%258E-948067f6eb13)
