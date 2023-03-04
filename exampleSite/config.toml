@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "何茹瑄"
-  headline = "高中時用Unity簡單做過飛機射擊遊戲，現在大學正在研究設計模式、重構、依賴注入、開源程式碼諸如此類的書籍和網路資料，之前有跟校外的朋友做類戰棋的遊戲，而學校專題則是有利用VR技術製作幫助自閉症兒童辨識情景的遊戲，希望未來能參與出更大類型的製作"
+  headline = "自由隨意，向心所得"
   image = "img/author.JPG"  # path relative to static directory
   email = "jane36742715@gmail.com"
   education = "輔仁大學醫學資訊與創新應用學士學位學程"
