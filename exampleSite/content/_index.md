@@ -10,7 +10,7 @@ description: "This is a demo of the Lynx theme for Hugo."
 雖然還有許多不足的地方，但不會因此感到氣餒。而是選擇不斷精進自己的實力，期許未來可以參與更大型的專案。
 
 ## 技能
-程式語言: C#, Java, Pyhton, Javascript , Kotlin
+程式語言: C#, Java, Pyhton, Javascripts, Kotlin
 
 
 開發環境: Unity, Intellij IDEA, Hugo
@@ -20,7 +20,7 @@ description: "This is a demo of the Lynx theme for Hugo."
 
 ## 專案
 ### 流離之歌
-與校外朋友製作的最新遊戲，雖然棋類遊戲看似比動作類型遊戲簡單，但其實對於流程的安排、還有操作的控制邏輯更加嚴格，在這次製作中理解到更多程式架構的切割與改善，也因此參加鐵人30去描述我所想像的架構。
+與校外朋友製作的最新遊戲，雖然棋類遊戲看似比動作類型遊戲簡單，但其實對於流程的安排、還有操作的控制邏輯更加嚴格。在這次製作中理解到更多程式架構的切割與改善，也因此參加鐵人30去描述我所想像的架構。除此之外也對於第三方插件的銜接和 Steam 的上架流程有更深入的理解。
 
 
 [Steam](https://store.steampowered.com/app/2143620/_/), 
