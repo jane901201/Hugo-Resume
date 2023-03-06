@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
   education = "輔仁大學醫學資訊與創新應用學士學位學程"
 
   links = [
-    # { email = "mailto:jane36742715@gmail.com" },
+    { email = {href = "mailto:jane36742715@gmail.com", text = "jane36742715@gmail.com"}},
     { link = "https://ithelp.ithome.com.tw/users/20151894" },
     { link = { href = "https://hackmd.io/@CtSze-t7T1GVANgIYXx2og", text = "Hackmd" } },
     # { ithome = "https://ithelp.ithome.com.tw/users/20151894"},
