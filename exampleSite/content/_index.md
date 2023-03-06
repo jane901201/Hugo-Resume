@@ -9,9 +9,6 @@ description: "This is a demo of the Lynx theme for Hugo."
 
 雖然還有許多不足的地方，但不會因此感到氣餒。而是選擇不斷精進自己的實力，期許未來可以參與更大型的專案。
 
-## 教育
-輔仁大學醫學資訊與創新應用學士學位學程
-
 ## 技能
 程式語言: C#, Java, Pyhton, Javascript , Kotlin
 
@@ -49,6 +46,9 @@ description: "This is a demo of the Lynx theme for Hugo."
 
 ### GGJ2023 Roots.io
 [Github](https://github.com/jane901201/GGJ2023TeamB), [GlobalGameJam.org](https://globalgamejam.org/2023/games/rootsio-1)
+
+## 教育
+輔仁大學醫學資訊與創新應用學士學位學程
 
 ## 興趣
 做遊戲、登山、研究新科技、寫小說、心理學、聽音樂
