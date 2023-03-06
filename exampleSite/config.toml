@@ -5,7 +5,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Tina He"
+  name = "Tina Ho"
   headline = "自由隨意，向心所得"
   image = "img/author.JPG"  # path relative to static directory
   email = "jane36742715@gmail.com"
