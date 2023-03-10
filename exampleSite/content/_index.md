@@ -57,4 +57,4 @@ description: "Tina Ho resume web."
 ## 興趣
 做遊戲、登山、研究新科技、寫小說、心理學、聽音樂
 
-## 連結
+## 資訊連結
