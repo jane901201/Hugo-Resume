@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
     { link = "https://ithelp.ithome.com.tw/users/20151894" },
     { link = { href = "https://hackmd.io/@CtSze-t7T1GVANgIYXx2og", text = "Hackmd" } },
     { github = "https://github.com/jane901201" },
-    { medium = "https://medium.com/" },
+    { medium = "https://medium.com/@ShailaRuza70245" },
   ]
 
 [markup.highlight]
