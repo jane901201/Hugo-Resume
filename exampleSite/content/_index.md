@@ -10,7 +10,7 @@ description: "Tina Ho resume web."
 雖然還有許多不足的地方，但不會因此感到氣餒。而是選擇不斷精進自己的實力，期許未來可以參與更大型的專案。
 
 ## 技能
-程式語言: C#, Java, Pyhton, Javascript, Kotlin
+程式語言: C#, Java, Python, Javascript, Kotlin
 
 
 開發工具使用: Unity, git, Visual Studio, Visual Studio Code, Intellij IDEA, Hugo
