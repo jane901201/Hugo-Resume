@@ -1,5 +1,5 @@
 ---
-description: "This is a demo of the Lynx theme for Hugo."
+description: "Tina Ho resume web."
 ---
 您好！我是Tina，由於對於遊戲的熱情，從高中時期開始就一頭栽進程式的學習。
 
@@ -10,15 +10,15 @@ description: "This is a demo of the Lynx theme for Hugo."
 雖然還有許多不足的地方，但不會因此感到氣餒。而是選擇不斷精進自己的實力，期許未來可以參與更大型的專案。
 
 ## 技能
-程式語言: C#, Java, Pyhton, Javascripts, Kotlin
+程式語言: C#, Java, Pyhton, Javascript, Kotlin
 
 
-開發環境: Unity, Intellij IDEA, Hugo
+開發工具使用: Unity, git, Visual Studio, Visual Studio Code, Intellij IDEA, Hugo
 
 
-正在學習: 深度學習
+正在學習: Deep Learning
 
-## 專案
+## 專案製作經歷
 ### 流離之歌
 與校外朋友製作的最新遊戲，雖然棋類遊戲看似比動作類型遊戲簡單，但其實對於流程的安排、還有操作的控制邏輯更加嚴格。在這次製作中理解到更多程式架構的切割與改善，也因此參加鐵人30去描述我所想像的架構。除此之外也對於第三方插件的銜接和 Steam 的上架流程有更深入的理解。
 
@@ -38,6 +38,7 @@ description: "This is a demo of the Lynx theme for Hugo."
 
 [Itch.io](https://lulubearstudio.itch.io/guild-after-real), [medium](https://medium.com/%40LinXuan70245/guild-afterreal%25E7%25A8%258B%25E5%25BC%258F%25E6%25AA%25A2%25E8%25A8%258E-948067f6eb13)
 
+## Game Jam
 ### FGJ2021 即使是克蘇魯也想談戀愛
 [Github](https://github.com/rabbit99/FGJ2021), [Itch.io](https://itch.io/jam/faust-game-jam-2021/rate/1177642)
 
