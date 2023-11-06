@@ -1,4 +1,12 @@
 {{ define "main" }}
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script type="text/javascript">
+      $(document).ready(function() {
+          $("#target1").css("color", "white");
+          $("div").css("border", "3px solid white");
+      });
+  </script>
+
   <article class="flex flex-col items-center justify-center h-full mt-10 text-center">
     <header class="flex flex-col items-center mb-3">
       {{ with .Site.Author.image }}
@@ -78,6 +86,7 @@
             </a>
           {{ end }}
         {{ end }}
+        <button class="btn btn-default target" id="target1">Test Button</button>
       </div>
     {{ end }}
   </article>
